@@ -2,10 +2,11 @@ const main =document.getElementById('main');
 
 main.remove();
 
-const newHeader =document.createElement('h1')
+const newHeader =document.createElement('h1');
 
-newHeader.id ='victory'
+newHeader.id ='victory';
 
-newHeader.textContent ='Moses is the champion'
+newHeader.textContent ='Moses is the champion';
 
-document.body.appendChild(newHeader)
+document.body.appendChild(newHeader);
+
